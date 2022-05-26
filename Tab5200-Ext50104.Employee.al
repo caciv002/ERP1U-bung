@@ -12,4 +12,5 @@ tableextension 50104 Tab5200 extends Employee
 
     var
         myInt: Integer;
+
 }

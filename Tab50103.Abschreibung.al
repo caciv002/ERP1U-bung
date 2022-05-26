@@ -65,5 +65,4 @@ table 50103 Abschreibung
     begin
 
     end;
-
 }
